@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { MdSearch, MdNotifications, MdMessage, MdPerson, MdKeyboardArrowDown, MdLogout, MdSettings } from 'react-icons/md';

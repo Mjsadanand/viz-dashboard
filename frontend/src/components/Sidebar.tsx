@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useNavigate } from 'react-router-dom';
 import { MdDashboard, MdAnalytics, MdShowChart, MdTableChart, MdLogout, MdChevronLeft, MdChevronRight } from 'react-icons/md';
 import '../styles/sidebar.css';

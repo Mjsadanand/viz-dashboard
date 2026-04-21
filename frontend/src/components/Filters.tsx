@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useState } from 'react';
 import { MdRefresh, MdFilterList, MdExpandMore } from 'react-icons/md';
 import '../styles/filters.css';

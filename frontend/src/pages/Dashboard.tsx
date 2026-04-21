@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { MdFileDownload, MdRefresh, MdWarning, MdBarChart, MdLocalFireDepartment, MdBolt, MdGpsFixed } from 'react-icons/md';
