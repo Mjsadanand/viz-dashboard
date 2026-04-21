@@ -1,0 +1,28 @@
+.how-container {
+  position: relative;
+  padding: 80px;
+}
+
+.title {
+  font-size: 70px;
+  font-weight: 600;
+}
+
+.highlight {
+  position: relative;
+  display: inline-block;
+}
+
+.underline {
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  width: 100%;
+}
+
+.arrow {
+  position: absolute;
+  right: 50px;
+  top: 120px;
+  width: 150px;
+}
